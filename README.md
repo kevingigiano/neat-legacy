@@ -7,7 +7,7 @@ These instructions assume that you have installed a fresh copy of Neat version 5
 * http://techmatetips.com/neat-desktop-software-v5-7-1-download/
 
 #1 Download patch archive:
-* https://github.com/kevingigiano/neat-legacy/raw/master/neat-5-7-patch.zip
+* https://github.com/kevingigiano/neat-legacy/raw/master/neat-5-7-patch-2.zip
 
 #2 Archive contains 3 files:
 * Neat.exe
