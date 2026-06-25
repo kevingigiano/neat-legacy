@@ -25,3 +25,5 @@ These instructions assume that you have installed a fresh copy of Neat version 5
 
 #5 Enjoy :)
 
+#6 Venmo works best to show me some love: https://venmo.com/u/Kevin-Gigiano
+
